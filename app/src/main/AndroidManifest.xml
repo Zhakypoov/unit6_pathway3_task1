@@ -25,7 +25,7 @@
         android:theme="@style/Theme.DessertRelease"
         tools:targetApi="33">
         <activity
-            android:name=".DessertReleaseApplication"
+            android:name=".MainActivity"
             android:exported="true"
             android:theme="@style/Theme.DessertRelease">
             <intent-filter>
